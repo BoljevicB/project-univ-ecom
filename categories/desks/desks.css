@@ -151,7 +151,7 @@
    margin-top: 50px;
   }
   
-  .chair_cards {
+  .desk_cards {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -160,22 +160,22 @@
     gap: 50px;
   }
 
-  .prod_chair{
+  .prod_desk{
     font-size: 35px;
     font-weight: 1000;
     padding-bottom: 20px;
     padding-left: 20px;
   }
 
-  .chair1,
-  .chair2,
-  .chair3,
-  .chair4,
-  .chair5,
-  .chair6,
-  .chair7,
-  .chair8,
-  .chair9 {
+  .desk1,
+  .desk2,
+  .desk3,
+  .desk4,
+  .desk5,
+  .desk6,
+  .desk7,
+  .desk8,
+  .desk9 {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -190,107 +190,107 @@
     flex-basis: 30%;
   }
 
-  .chair1 {
+  .desk1 {
     /* background-color: #FFE3F1; */
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
 
-  .chair1:hover {
+  .desk1:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
 
-  .chair2 {
+  .desk2 {
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
 
-  .chair2:hover {
+  .desk2:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
 
-  .chair3 {
+  .desk3 {
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
   
-  .chair3:hover {
+  .desk3:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
 
-  .chair4 {
+  .desk4 {
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
 
-  .chair4:hover {
+  .desk4:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
   
-  .chair5 {
+  .desk5 {
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
 
-  .chair5:hover {
+  .desk5:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
   
-  .chair6 {
+  .desk6 {
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
 
-  .chair6:hover {
+  .desk6:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
   
-  .chair7 {
+  .desk7 {
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
 
-  .chair7:hover {
+  .desk7:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
   
-  .chair8 {
+  .desk8 {
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
 
-  .chair8:hover {
+  .desk8:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
   
-  .chair9 {
+  .desk9 {
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
 
-  .chair9:hover {
+  .desk9:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
 
-  .chair_name {
+  .desk_name {
     font-size: 20px;
     font-weight: bold;
   }
 
-  .chair_descr {
+  .desk_descr {
     border-top: 1px solid rgba(0, 0, 0, 0.4);
   }
 
-  .chair_price {
+  .desk_price {
     font-size: 20px;
     font-weight: bold;
     border-top: 1px solid rgba(0, 0, 0, 0.4);
@@ -315,18 +315,6 @@
   }
 
 
-  /* footer {
-    width: 100%;
-  display: flex;
-  justify-content: center;
-  margin-top: 20px;
-  bottom: 0;
-  } */
-
-  .about_img img {
-    border-radius: 25px 5px 25px 5px;
-  }
-  
   .logosm {
     display: flex;
     justify-content: center;
