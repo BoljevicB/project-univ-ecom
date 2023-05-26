@@ -1,0 +1,20 @@
+.logosm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap:10px;
+  }
+  
+  footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+    padding-top: 10px;
+    bottom: 0;
+    gap:5px;
+    background-color: #F1EDEE;
+  }

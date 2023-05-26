@@ -1,0 +1,76 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  @font-face {
+    font-family: siteFont;
+    src: url('https://fonts.googleapis.com/css2?family=Forum&display=swap');
+  }
+  
+  html body {
+    overflow-x: hidden;
+   /* background-image: linear-gradient(to bottom, #91908F, #A5A5A5, #FFFFFF);
+   min-height: 100vh; */
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    /* position: fixed; */
+    width: 100%;
+    /* background-color: #E4DED4; */
+    background-color: #F1EDEE;
+  }
+  
+  header ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 13px;
+    padding:20px;
+  
+  }
+  
+  header ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    font-weight: 500;
+    transition: 0.2s ease;
+  }
+  
+  header ul li a:hover {
+    color: #1A5DAD;
+    font-weight: 100;
+  }
+  
+  header ul li ul {
+    width: 50px;
+    color: #fff;
+    display: block;
+    position: fixed;
+    display: none;
+    /* margin-top: -15px; */
+  }
+  
+  header ul li ul li a {
+    width: 100%;
+    font-size: 18px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  header ul li:hover > ul {
+    display: initial;
+    position: fixed;
+    display: block;
+    background-color: #F1EDEE;
+  }
