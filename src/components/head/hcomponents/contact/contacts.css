@@ -1,0 +1,85 @@
+main {
+  display: block;
+}
+
+.contact_container {
+  width: 100%;
+  height: auto;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-top: 1px solid rgba(0, 0, 0, 0.1) ;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 50px;
+  flex-wrap: wrap;
+}
+
+h2 {
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.map_adress{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.feedback {
+  width: 300px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; 
+  gap: 10px;
+}
+
+.contact {
+  margin-top: 40px;
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+label {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+input {
+  width: 300px;
+  height: 40px;
+  background-color: #A5A5A5;
+  border: #7780A2 solid 1px;
+  border-radius: 5px;
+}
+
+iframe {
+  border:0;
+}
+
+#question {
+  height: 70px
+}
+
+#btn_send {
+  width: 150px;
+  height: 60px;
+  background-color: #1A5DAD;
+  border: 1px solid #fff;
+  border-radius: 12px;
+  color: white;
+  font-weight: 800;
+  margin-top: 20px;
+  transition: 0.2s ease-in;
+}
+
+#btn_send:hover {
+  box-shadow: none;
+  background-color: #4DA4D5;
+  border: #A5A5A5 2px solid;
+}
