@@ -2,6 +2,7 @@ import './App.css';
 import Head from "./components/head/head";
 import Main from "./components/main/main";
 import Footer from "./components/footer/footer";
+import Catalog from "./components/head/hcomponents/catalog/catalog";
 import About from "./components/head/hcomponents/about/about";
 import Contacts from "./components/head/hcomponents/contact/contacts";
 import Beds from "./components/categories/beds/beds";
@@ -27,7 +28,7 @@ function App() {
         </div>
         <ul>
             <li><Link to="/">Main</Link></li>
-            <li><a href="#">Catalog</a>
+            <li><Link to="/catalog">Catalog</Link>
                 <ul>
                     <li><Link to="/beds">Beds</Link></li>
                     <li><Link to="/chairs">Chairs</Link></li>
@@ -50,6 +51,7 @@ function App() {
           <div className="grid_main">
             <Routes>
               <Route path="/" element={<Main/>}/>
+              <Route path="/catalog" element={<Catalog/>}/>
               <Route path="/about" element={<About />}/>
               <Route path="/contactus" element={<Contacts/>}/>
               <Route path="/beds" element={<Beds />}/>
