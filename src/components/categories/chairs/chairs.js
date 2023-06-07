@@ -17,7 +17,7 @@ function Chairs() {
     <div className="prod_chair">PRODUCTS</div>
         <div className="chair_cards">
             <div className="chair1">
-                <div className="chair_img"><img src="/imgs/chair1.png" alt="chair" width="300" height="auto"/></div>
+                <div className="chair_img"><img src="/imgs/chair1.png" alt="chair" width="300" height="300"/></div>
                 <div className="chair_name">Nice chair (VHV 321)</div>
                 <div className="chair_descr">Lorem ipsum dolor sit amet.</div>
                 <div className="chair_price">78$</div>
@@ -25,7 +25,7 @@ function Chairs() {
                 </div>
                 
                 <div className="chair2">
-                    <div className="chair_img"><img src="/imgs/chair2.png" alt="chair" width="300" height="auto"/></div>
+                    <div className="chair_img"><img src="/imgs/chair2.png" alt="chair" width="300" height="300"/></div>
                     <div className="chair_name">Nice chair (VHV 321)</div>
                     <div className="chair_descr">Lorem ipsum dolor sit amet.</div>
                     <div className="chair_price">59$</div>
@@ -33,7 +33,7 @@ function Chairs() {
                 </div>
                    
                     <div className="chair3">
-                        <div className="chair_img"><img src="/imgs/chair3.png" alt="chair" width="300" height="auto"/></div>
+                        <div className="chair_img"><img src="/imgs/chair3.png" alt="chair" width="300" height="300"/></div>
                         <div className="chair_name">Nice chair (VHV 321)</div>
                         <div className="chair_descr">Lorem ipsum dolor sit amet.</div>
                         <div className="chair_price">91$</div>
@@ -41,7 +41,7 @@ function Chairs() {
                     </div>
 
                     <div className="chair4">
-                        <div className="chair_img"><img src="/imgs/chair4.png" alt="chair" width="300" height="auto"/></div>
+                        <div className="chair_img"><img src="/imgs/chair4.png" alt="chair" width="300" height="300"/></div>
                         <div className="chair_name">Nice chair (VHV 321)</div>
                         <div className="chair_descr">Lorem ipsum dolor sit amet.</div>
                         <div className="chair_price">60$</div>
@@ -49,7 +49,7 @@ function Chairs() {
                     </div>
 
                     <div className="chair5">
-                        <div className="chair_img"><img src="/imgs/chair5.png" alt="chair" width="300" height="auto"/></div>
+                        <div className="chair_img"><img src="/imgs/chair5.png" alt="chair" width="300" height="300"/></div>
                         <div className="chair_name">Nice chair (VHV 321)</div>
                         <div className="chair_descr">Lorem ipsum dolor sit amet.</div>
                         <div className="chair_price">78$</div>
@@ -57,7 +57,7 @@ function Chairs() {
                     </div>
 
                     <div className="chair6">
-                        <div className="chair_img"><img src="/imgs/chair6.png" alt="chair" width="300" height="auto"/></div>
+                        <div className="chair_img"><img src="/imgs/chair6.png" alt="chair" width="300" height="300"/></div>
                         <div className="chair_name">Nice chair (VHV 321)</div>
                         <div className="chair_descr">Lorem ipsum dolor sit amet.</div>
                         <div className="chair_price">199$</div>
@@ -65,7 +65,7 @@ function Chairs() {
                     </div>
 
                     <div className="chair7">
-                        <div className="chair_img"><img src="/imgs/chair7.png" alt="chair" width="300" height="auto"/></div>
+                        <div className="chair_img"><img src="/imgs/chair7.png" alt="chair" width="300" height="300"/></div>
                         <div className="chair_name">Nice chair (VHV 321)</div>
                         <div className="chair_descr">Lorem ipsum dolor sit amet.</div>
                         <div className="chair_price">53$</div>
@@ -73,7 +73,7 @@ function Chairs() {
                     </div>
 
                     <div className="chair8">
-                        <div className="chair_img"><img src="/imgs/chair8.png" alt="chair" width="300" height="auto"/></div>
+                        <div className="chair_img"><img src="/imgs/chair8.png" alt="chair" width="300" height="300"/></div>
                         <div className="chair_name">Nice chair (VHV 321)</div>
                         <div className="chair_descr">Lorem ipsum dolor sit amet.</div>
                         <div className="chair_price">82$</div>
@@ -81,7 +81,7 @@ function Chairs() {
                     </div>
 
                     <div className="chair9">
-                        <div className="chair_img"><img src="/imgs/chair9.png" alt="chair" width="300" height="auto"/></div>
+                        <div className="chair_img"><img src="/imgs/chair9.png" alt="chair" width="300" height="300"/></div>
                         <div className="chair_name">Nice chair (VHV 321)</div>
                         <div className="chair_descr">Lorem ipsum dolor sit amet.</div>
                         <div className="chair_price">23$</div>

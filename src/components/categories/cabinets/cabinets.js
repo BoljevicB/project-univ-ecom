@@ -16,7 +16,7 @@ function Cabinets() {
             <div className="prod_cabinet">PRODUCTS</div>
                 <div className="cabinet_cards">
                     <div className="cabinet1">
-                        <div className="cabinet_img"><img src="/imgs/cabinet1.png" alt="cabinet" width="300" height="auto"/></div>
+                        <div className="cabinet_img"><img src="/imgs/cabinet1.png" alt="cabinet" width="300" height="300"/></div>
                         <div className="cabinet_name">cabinet (VHV 321)</div>
                         <div className="cabinet_descr">Lorem ipsum dolor sit amet.</div>
                         <div className="cabinet_price">78$</div>
@@ -24,7 +24,7 @@ function Cabinets() {
                         </div>
                         
                         <div className="cabinet2">
-                            <div className="cabinet_img"><img src="/imgs/cabinet2.png" alt="cabinet" width="300" height="auto"/></div>
+                            <div className="cabinet_img"><img src="/imgs/cabinet2.png" alt="cabinet" width="300" height="300"/></div>
                             <div className="cabinet_name">cabinet (VHV 321)</div>
                             <div className="cabinet_descr">Lorem ipsum dolor sit amet.</div>
                             <div className="cabinet_price">59$</div>
@@ -32,7 +32,7 @@ function Cabinets() {
                         </div>
                            
                             <div className="cabinet3">
-                                <div className="cabinet_img"><img src="/imgs/cabinet3.png" alt="cabinet" width="300" height="auto"/></div>
+                                <div className="cabinet_img"><img src="/imgs/cabinet3.png" alt="cabinet" width="300" height="300"/></div>
                                 <div className="cabinet_name">cabinet (VHV 321)</div>
                                 <div className="cabinet_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="cabinet_price">91$</div>
@@ -40,7 +40,7 @@ function Cabinets() {
                             </div>
 
                             <div className="cabinet4">
-                                <div className="cabinet_img"><img src="/imgs/cabinet4.png" alt="cabinet" width="300" height="auto"/></div>
+                                <div className="cabinet_img"><img src="/imgs/cabinet4.png" alt="cabinet" width="300" height="300"/></div>
                                 <div className="cabinet_name">cabinet (VHV 321)</div>
                                 <div className="cabinet_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="cabinet_price">60$</div>
@@ -48,7 +48,7 @@ function Cabinets() {
                             </div>
 
                             <div className="cabinet5">
-                                <div className="cabinet_img"><img src="/imgs/cabinet5.png" alt="cabinet" width="300" height="auto"/></div>
+                                <div className="cabinet_img"><img src="/imgs/cabinet5.png" alt="cabinet" width="300" height="300"/></div>
                                 <div className="cabinet_name">cabinet (VHV 321)</div>
                                 <div className="cabinet_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="cabinet_price">78$</div>
@@ -56,7 +56,7 @@ function Cabinets() {
                             </div>
 
                             <div className="cabinet6">
-                                <div className="cabinet_img"><img src="/imgs/cabinet6.png" alt="cabinet" width="300" height="auto"/></div>
+                                <div className="cabinet_img"><img src="/imgs/cabinet6.png" alt="cabinet" width="300" height="300"/></div>
                                 <div className="cabinet_name">Nice cabinet (VHV 321)</div>
                                 <div className="cabinet_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="cabinet_price">199$</div>
@@ -64,7 +64,7 @@ function Cabinets() {
                             </div>
 
                             <div className="cabinet7">
-                                <div className="cabinet_img"><img src="/imgs/cabinet7.png" alt="cabinet" width="300" height="auto"/></div>
+                                <div className="cabinet_img"><img src="/imgs/cabinet7.png" alt="cabinet" width="300" height="300"/></div>
                                 <div className="cabinet_name">cabinet (VHV 321)</div>
                                 <div className="cabinet_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="cabinet_price">53$</div>
@@ -72,7 +72,7 @@ function Cabinets() {
                             </div>
 
                             <div className="cabinet8">
-                                <div className="cabinet_img"><img src="/imgs/cabinet8.png" alt="cabinet" width="300" height="auto"/></div>
+                                <div className="cabinet_img"><img src="/imgs/cabinet8.png" alt="cabinet" width="300" height="300"/></div>
                                 <div className="cabinet_name">cabinet (VHV 321)</div>
                                 <div className="cabinet_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="cabinet_price">82$</div>
@@ -80,7 +80,7 @@ function Cabinets() {
                             </div>
 
                             <div className="cabinet9">
-                                <div className="cabinet_img"><img src="/imgs/cabinet9.png" alt="cabinet" width="300" height="auto"/></div>
+                                <div className="cabinet_img"><img src="/imgs/cabinet9.png" alt="cabinet" width="300" height="300"/></div>
                                 <div className="cabinet_name">cabinet (VHV 321)</div>
                                 <div className="cabinet_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="cabinet_price">23$</div>

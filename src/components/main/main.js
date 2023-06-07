@@ -1,7 +1,6 @@
 import './main.css';
 
 
-
 function Main() {
   return (
     <main>
@@ -47,7 +46,7 @@ function Main() {
         <div className="categories_h">CATEGORIES</div>
             <div className="categories_container">
             <div className="category">
-                <a href="./categories/beds/beds.html"><div className="category_img"><img src="/imgs/bed_cat.png" alt="service" width="300" height="250"/></div>
+                <a href="../categories/chairs/chairs.js"><div className="category_img"><img src="/imgs/bed_cat.png" alt="service" width="300" height="250"/></div>
                 <div className="category_name">Beds</div></a>
             </div>
 
@@ -102,7 +101,10 @@ function Main() {
         <div className="about_img"><img src="/imgs/about.jpg" alt="about" height="600" width="auto"/></div>
 
     </div>
+
     </main>
+
+    
   );
 }
 

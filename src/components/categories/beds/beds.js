@@ -18,7 +18,7 @@ function Bed() {
             <div className="prod_bed">PRODUCTS</div>
                 <div className="bed_cards">
                     <div className="bed1">
-                        <div className="bed_img"><img src="/imgs/bed4.png" alt="bed" width="300" height="auto"/></div>
+                        <div className="bed_img"><img src="/imgs/bed4.png" alt="bed" width="300" height="300"/></div>
                         <div className="bed_name">Nice bed (VHV 321)</div>
                         <div className="bed_descr">Lorem ipsum dolor sit amet.</div>
                         <div className="bed_price">99$</div>
@@ -26,7 +26,7 @@ function Bed() {
                         </div>
                         
                         <div className="bed2">
-                            <div className="bed_img"><img src="/imgs/bed2.png" alt="bed" width="300" height="auto"/></div>
+                            <div className="bed_img"><img src="/imgs/bed2.png" alt="bed" width="300" height="300"/></div>
                             <div className="bed_name">Nice bed (VHV 321)</div>
                             <div className="bed_descr">Lorem ipsum dolor sit amet.</div>
                             <div className="bed_price">129$</div>
@@ -34,7 +34,7 @@ function Bed() {
                         </div>
                            
                             <div className="bed3">
-                                <div className="bed_img"><img src="/imgs/bed3.png" alt="bed" width="300" height="auto"/></div>
+                                <div className="bed_img"><img src="/imgs/bed3.png" alt="bed" width="300" height="300"/></div>
                                 <div className="bed_name">Nice bed (VHV 321)</div>
                                 <div className="bed_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="bed_price">109$</div>
@@ -42,7 +42,7 @@ function Bed() {
                             </div>
 
                             <div className="bed4">
-                                <div className="bed_img"><img src="/imgs/bed9.png" alt="bed" width="300" height="auto"/></div>
+                                <div className="bed_img"><img src="/imgs/bed9.png" alt="bed" width="300" height="300"/></div>
                                 <div className="bed_name">Nice bed (VHV 321)</div>
                                 <div className="bed_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="bed_price">88$</div>
@@ -50,7 +50,7 @@ function Bed() {
                             </div>
 
                             <div className="bed5">
-                                <div className="bed_img"><img src="/imgs/bed8.png" alt="bed" width="300" height="auto"/></div>
+                                <div className="bed_img"><img src="/imgs/bed8.png" alt="bed" width="300" height="300"/></div>
                                 <div className="bed_name">Nice bed (VHV 321)</div>
                                 <div className="bed_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="bed_price">190$</div>
@@ -58,7 +58,7 @@ function Bed() {
                             </div>
 
                             <div className="bed6">
-                                <div className="bed_img"><img src="/imgs/bed6.png" alt="bed" width="300" height="auto"/></div>
+                                <div className="bed_img"><img src="/imgs/bed6.png" alt="bed" width="300" height="300"/></div>
                                 <div className="bed_name">Nice bed (VHV 321)</div>
                                 <div className="bed_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="bed_price">199$</div>
@@ -66,7 +66,7 @@ function Bed() {
                             </div>
 
                             <div className="bed7">
-                                <div className="bed_img"><img src="/imgs/bed7.png" alt="bed" width="300" height="auto"/></div>
+                                <div className="bed_img"><img src="/imgs/bed7.png" alt="bed" width="300" height="300"/></div>
                                 <div className="bed_name">Nice bed (VHV 321)</div>
                                 <div className="bed_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="bed_price">329$</div>
@@ -74,7 +74,7 @@ function Bed() {
                             </div>
 
                             <div className="bed8">
-                                <div className="bed_img"><img src="/imgs/bed5.png" alt="bed" width="300" height="auto"/></div>
+                                <div className="bed_img"><img src="/imgs/bed5.png" alt="bed" width="300" height="300"/></div>
                                 <div className="bed_name">Nice bed (VHV 321)</div>
                                 <div className="bed_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="bed_price">189$</div>
@@ -82,7 +82,7 @@ function Bed() {
                             </div>
 
                             <div className="bed9">
-                                <div className="bed_img"><img src="/imgs/bed1.png" alt="bed" width="300" height="auto"/></div>
+                                <div className="bed_img"><img src="/imgs/bed1.png" alt="bed" width="300" height="300"/></div>
                                 <div className="bed_name">Nice bed (VHV 321)</div>
                                 <div className="bed_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="bed_price">499$</div>

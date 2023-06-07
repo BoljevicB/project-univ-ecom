@@ -16,7 +16,7 @@ function Desks() {
             <div className="prod_desk">PRODUCTS</div>
                 <div className="desk_cards">
                     <div className="desk1">
-                        <div className="desk_img"><img src="/imgs/desk1.png" alt="desk" width="300" height="auto"/></div>
+                        <div className="desk_img"><img src="/imgs/desk1.png" alt="desk" width="300" height="250"/></div>
                         <div className="desk_name">Nice desks (VHV 321)</div>
                         <div className="desk_descr">Lorem ipsum dolor sit amet.</div>
                         <div className="desk_price">99$</div>
@@ -24,7 +24,7 @@ function Desks() {
                         </div>
                         
                         <div className="desk2">
-                            <div className="desk_img"><img src="/imgs/desk2.png" alt="desk" width="300" height="auto"/></div>
+                            <div className="desk_img"><img src="/imgs/desk2.png" alt="desk" width="300" height="250"/></div>
                             <div className="desk_name">Nice desk (VHV 321)</div>
                             <div className="desk_descr">Lorem ipsum dolor sit amet.</div>
                             <div className="desk_price">129$</div>
@@ -32,7 +32,7 @@ function Desks() {
                         </div>
                            
                             <div className="desk3">
-                                <div className="desk_img"><img src="/imgs/desk3.png" alt="desk" width="300" height="auto"/></div>
+                                <div className="desk_img"><img src="/imgs/desk3.png" alt="desk" width="300" height="250"/></div>
                                 <div className="desk_name">Nice desk (VHV 321)</div>
                                 <div className="desk_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="desk_price">109$</div>
@@ -40,7 +40,7 @@ function Desks() {
                             </div>
 
                             <div className="desk4">
-                                <div className="desk_img"><img src="/imgs/desk4.png" alt="desk" width="300" height="auto"/></div>
+                                <div className="desk_img"><img src="/imgs/desk4.png" alt="desk" width="300" height="250"/></div>
                                 <div className="desk_name">Nice desk (VHV 321)</div>
                                 <div className="desk_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="desk_price">88$</div>
@@ -48,7 +48,7 @@ function Desks() {
                             </div>
 
                             <div className="desk5">
-                                <div className="desk_img"><img src="/imgs/desk5.png" alt="desk" width="300" height="auto"/></div>
+                                <div className="desk_img"><img src="/imgs/desk5.png" alt="desk" width="300" height="250"/></div>
                                 <div className="desk_name">Nice desk (VHV 321)</div>
                                 <div className="desk_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="desk_price">190$</div>
@@ -56,7 +56,7 @@ function Desks() {
                             </div>
 
                             <div className="desk6">
-                                <div className="desk_img"><img src="/imgs/desk6.png" alt="desk" width="300" height="auto"/></div>
+                                <div className="desk_img"><img src="/imgs/desk6.png" alt="desk" width="300" height="250"/></div>
                                 <div className="desk_name">Nice desk (VHV 321)</div>
                                 <div className="desk_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="desk_price">199$</div>
@@ -64,7 +64,7 @@ function Desks() {
                             </div>
 
                             <div className="desk7">
-                                <div className="desk_img"><img src="/imgs/desk7.png" alt="desk" width="300" height="auto"/></div>
+                                <div className="desk_img"><img src="/imgs/desk7.png" alt="desk" width="300" height="250"/></div>
                                 <div className="desk_name">Nice desk (VHV 321)</div>
                                 <div className="desk_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="desk_price">329$</div>
@@ -72,7 +72,7 @@ function Desks() {
                             </div>
 
                             <div className="desk8">
-                                <div className="desk_img"><img src="/imgs/desk8.png" alt="desk" width="300" height="auto"/></div>
+                                <div className="desk_img"><img src="/imgs/desk8.png" alt="desk" width="300" height="250"/></div>
                                 <div className="desk_name">Nice desk (VHV 321)</div>
                                 <div className="desk_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="desk_price">189$</div>
@@ -80,7 +80,7 @@ function Desks() {
                             </div>
 
                             <div className="desk9">
-                                <div className="desk_img"><img src="/imgs/desk1.png" alt="desk" width="300" height="auto"/></div>
+                                <div className="desk_img"><img src="/imgs/desk1.png" alt="desk" width="300" height="250"/></div>
                                 <div className="desk_name">Nice desk (VHV 321)</div>
                                 <div className="desk_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="desk_price">499$</div>
