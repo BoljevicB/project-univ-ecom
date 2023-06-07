@@ -65,6 +65,7 @@ function Main() {
                 <div className="category_img"><img src="/imgs/dresser-cat.png" alt="category" width="300" height="230"/></div>
                 <div className="category_name">Dressers</div>
             </div>
+            
 
             <div className="category">
                 <div className="category_img"><img src="/imgs/table_cat.png" alt="category" width="300" height="230"/></div>
