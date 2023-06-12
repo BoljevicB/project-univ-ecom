@@ -1,4 +1,5 @@
 import './main.css';
+import {Link} from "react-router-dom";
 
 
 function Main() {
@@ -46,8 +47,8 @@ function Main() {
         <div className="categories_h">CATEGORIES</div>
             <div className="categories_container">
             <div className="category">
-                <a href="../categories/chairs/chairs.js"><div className="category_img"><img src="/imgs/bed_cat.png" alt="service" width="300" height="250"/></div>
-                <div className="category_name">Beds</div></a>
+                <Link to="/beds"><div className="category_img"><img src="/imgs/bed_cat.png" alt="service" width="300" height="250"/></div>
+                <div className="category_name">Beds</div></Link>
             </div>
 
             <div className="category">
@@ -96,7 +97,7 @@ function Main() {
             <div className="about_h">
                 ABOUT US
             </div>
-            <div className="about_text"><span>Lorem ipsum dolor</span> sit amet consectetur, adipisicing elit. Nostrum facere dolorum aspernatur, enim aut voluptatibus, ipsam eum consequatur fugit voluptate asperiores rerum alias tempore laborum modi corporis provident assumenda repudiandae nulla temporibus! Repellendus minima repudiandae magni ex velit unde veniam voluptas corporis, laborum iure delectus perferendis maxime ipsum? In mollitia excepturi beatae modi minus, laborum aliquam rerum cum quas ducimus nostrum laudantium quo quidem? Provident, tempore quos enim qui nisi ut vel repellat consequatur quasi excepturi fuga est alias dolore! <br/><a href="./categories/about/about.html"><button id="btn_about">Read More...</button></a></div>
+            <div className="about_text"><span>Lorem ipsum dolor</span> sit amet consectetur, adipisicing elit. Nostrum facere dolorum aspernatur, enim aut voluptatibus, ipsam eum consequatur fugit voluptate asperiores rerum alias tempore laborum modi corporis provident assumenda repudiandae nulla temporibus! Repellendus minima repudiandae magni ex velit unde veniam voluptas corporis, laborum iure delectus perferendis maxime ipsum? In mollitia excepturi beatae modi minus, laborum aliquam rerum cum quas ducimus nostrum laudantium quo quidem? Provident, tempore quos enim qui nisi ut vel repellat consequatur quasi excepturi fuga est alias dolore! <br/><Link to="/about"><button id="btn_about">Read More...</button></Link></div>
         </div>
 
         <div className="about_img"><img src="/imgs/about.jpg" alt="about" height="600" width="auto"/></div>
