@@ -84,7 +84,7 @@ main {
    margin-top: 50px;
   }
   
-  .dresser_cards {
+  .couch_cards {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -93,22 +93,22 @@ main {
     gap: 50px;
   }
 
-  .prod_dresser{
+  .prod_couch{
     font-size: 35px;
     font-weight: 1000;
     padding-bottom: 20px;
     padding-left: 20px;
   }
 
-  .dresser1,
-  .dresser2,
-  .dresser3,
-  .dresser4,
-  .dresser5,
-  .dresser6,
-  .dresser7,
-  .dresser8,
-  .dresser9 {
+  .couch1,
+  .couch2,
+  .couch3,
+  .couch4,
+  .couch5,
+  .couch6,
+  .couch7,
+  .couch8,
+  .couch9 {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -123,107 +123,107 @@ main {
     flex-basis: 30%;
   }
 
-  .dresser1 {
+  .couch1 {
     /* background-color: #FFE3F1; */
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
 
-  .dresser1:hover {
+  .couch1:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
 
-  .dresser2 {
+  .couch2 {
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
 
-  .dresser2:hover {
+  .couch2:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
 
-  .dresser3 {
+  .couch3 {
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
   
-  .dresser3:hover {
+  .couch3:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
 
-  .dresser4 {
+  .couch4 {
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
 
-  .dresser4:hover {
+  .couch4:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
   
-  .dresser5 {
+  .couch5 {
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
 
-  .dresser5:hover {
+  .couch5:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
   
-  .dresser6 {
+  .couch6 {
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
 
-  .dresser6:hover {
+  .couch6:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
   
-  .dresser7 {
+  .couch7 {
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
 
-  .dresser7:hover {
+  .couch7:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
   
-  .dresser8 {
+  .couch8 {
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
 
-  .dresser8:hover {
+  .couch8:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
   
-  .dresser9 {
+  .couch9 {
     background-color: #ffff;
     transition: 0.2s ease-in;
   }
 
-  .dresser9:hover {
+  .couch9:hover {
     transform: scale(1.012);
     cursor: pointer;
   }
 
-  .dresser_name {
+  .couch_name {
     font-size: 20px;
     font-weight: bold;
   }
 
-  .dresser_descr {
+  .couch_descr {
     border-top: 1px solid rgba(0, 0, 0, 0.4);
   }
 
-  .dresser_price {
+  .couch_price {
     font-size: 20px;
     font-weight: bold;
     border-top: 1px solid rgba(0, 0, 0, 0.4);

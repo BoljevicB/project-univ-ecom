@@ -14,11 +14,11 @@ function Head() {
                 <li><Link to="/beds">Beds</Link></li>
                 <li><Link to="/chairs">Chairs</Link></li>
                 <li><Link to="/desks">Desks</Link></li>
-                <li><Link to="/dressers">Dressers</Link></li>
+                <li><Link to="/couches">Couches</Link></li>
                 <li><Link to="/tables">Tables</Link></li>
-                <li><Link to="/cabinets">Cabinets</Link></li>
+                <li><Link to="/lamps">Lamps</Link></li>
                 <li><Link to="/kitchens">Kitchens</Link></li>
-                <li><a href="#">Kids furniture</a></li>
+                <li><Link to="/kidsfurniture">Kids furniture</Link></li>
             </ul>
         </li>
         <li><a href="#">Sale</a></li>

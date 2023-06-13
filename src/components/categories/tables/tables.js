@@ -16,7 +16,7 @@ function Tables(){
             <div className="prod_table">PRODUCTS</div>
                 <div className="table_cards">
                     <div className="table1">
-                        <div className="table_img"><img src="/imgs/table1.png" alt="table" width="300" height="auto"/></div>
+                        <div className="table_img"><img src="/imgs/table1.png" alt="table" width="300" height="300"/></div>
                         <div className="table_name">table (VHV 321)</div>
                         <div className="table_descr">Lorem ipsum dolor sit amet.</div>
                         <div className="table_price">78$</div>
@@ -24,7 +24,7 @@ function Tables(){
                         </div>
                         
                         <div className="table2">
-                            <div className="table_img"><img src="/imgs/table2.png" alt="table" width="300" height="auto"/></div>
+                            <div className="table_img"><img src="/imgs/table2.png" alt="table" width="300" height="300"/></div>
                             <div className="table_name">table (VHV 321)</div>
                             <div className="table_descr">Lorem ipsum dolor sit amet.</div>
                             <div className="table_price">59$</div>
@@ -32,7 +32,7 @@ function Tables(){
                         </div>
                            
                             <div className="table3">
-                                <div className="table_img"><img src="/imgs/table3.png" alt="table" width="300" height="auto"/></div>
+                                <div className="table_img"><img src="/imgs/table3.png" alt="table" width="300" height="300"/></div>
                                 <div className="table_name">table (VHV 321)</div>
                                 <div className="table_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="table_price">91$</div>
@@ -40,7 +40,7 @@ function Tables(){
                             </div>
 
                             <div className="table4">
-                                <div className="table_img"><img src="/imgs/table4.png" alt="table" width="300" height="auto"/></div>
+                                <div className="table_img"><img src="/imgs/table4.png" alt="table" width="300" height="300"/></div>
                                 <div className="table_name">table (VHV 321)</div>
                                 <div className="table_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="table_price">60$</div>
@@ -48,7 +48,7 @@ function Tables(){
                             </div>
 
                             <div className="table5">
-                                <div className="table_img"><img src="/imgs/table5.png" alt="table" width="300" height="auto"/></div>
+                                <div className="table_img"><img src="/imgs/table5.png" alt="table" width="300" height="300"/></div>
                                 <div className="table_name">table (VHV 321)</div>
                                 <div className="table_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="table_price">78$</div>
@@ -56,7 +56,7 @@ function Tables(){
                             </div>
 
                             <div className="table6">
-                                <div className="table_img"><img src="/imgs/table6.png" alt="table" width="300" height="auto"/></div>
+                                <div className="table_img"><img src="/imgs/table6.png" alt="table" width="300" height="300"/></div>
                                 <div className="table_name">Nice table (VHV 321)</div>
                                 <div className="table_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="table_price">199$</div>
@@ -64,7 +64,7 @@ function Tables(){
                             </div>
 
                             <div className="table7">
-                                <div className="table_img"><img src="/imgs/table7.png" alt="table" width="300" height="auto"/></div>
+                                <div className="table_img"><img src="/imgs/table7.png" alt="table" width="300" height="300"/></div>
                                 <div className="table_name">table (VHV 321)</div>
                                 <div className="table_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="table_price">53$</div>
@@ -72,7 +72,7 @@ function Tables(){
                             </div>
 
                             <div className="table8">
-                                <div className="table_img"><img src="/imgs/table8.png" alt="table" width="300" height="auto"/></div>
+                                <div className="table_img"><img src="/imgs/table8.png" alt="table" width="300" height="300"/></div>
                                 <div className="table_name">table (VHV 321)</div>
                                 <div className="table_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="table_price">82$</div>
@@ -80,7 +80,7 @@ function Tables(){
                             </div>
 
                             <div className="table9">
-                                <div className="table_img"><img src="/imgs/table9.png" alt="table" width="300" height="auto"/></div>
+                                <div className="table_img"><img src="/imgs/table9.png" alt="table" width="300" height="300"/></div>
                                 <div className="table_name">table (VHV 321)</div>
                                 <div className="table_descr">Lorem ipsum dolor sit amet.</div>
                                 <div className="table_price">23$</div>

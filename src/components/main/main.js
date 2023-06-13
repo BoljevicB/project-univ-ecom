@@ -52,41 +52,39 @@ function Main() {
             </div>
 
             <div className="category">
-                <a href="./categories/chairs/chairs.html"><div className="category_img"><img src="/imgs/chair2.png" alt="category" width="300" height="250"/></div>
-                <div className="category_name">Chairs</div></a>
+                <Link to="/chairs"><div className="category_img"><img src="/imgs/chair2.png" alt="category" width="300" height="250"/></div>
+                <div className="category_name">Chairs</div></Link>
             </div>
 
             <div className="category">
-                <a href="./categories/desks/desks.html">
-                <div className="category_img"><img src="/imgs/desk2.png" alt="category" width="300" height="230"/></div>
-                <div className="category_name">Desks</div></a>
+                <Link to="/desks"><div className="category_img"><img src="/imgs/desk2.png" alt="category" width="300" height="230"/></div>
+                <div className="category_name">Desks</div></Link>
             </div>
 
             <div className="category">
-                <div className="category_img"><img src="/imgs/dresser-cat.png" alt="category" width="300" height="230"/></div>
-                <div className="category_name">Dressers</div>
+            <Link to="/couches"> <div className="category_img"><img src="/imgs/couch_cat.png" alt="category" width="300" height="230"/></div>
+                <div className="category_name">Couches</div></Link>
             </div>
             
 
             <div className="category">
-                <div className="category_img"><img src="/imgs/table_cat.png" alt="category" width="300" height="230"/></div>
-                <div className="category_name">Tables</div>
+            <Link to="/tables"><div className="category_img"><img src="/imgs/table_cat.png" alt="category" width="300" height="230"/></div>
+                <div className="category_name">Tables</div></Link>
             </div>
 
             <div className="category">
-                <div className="category_img"><img src="/imgs/cabinet_cat.png" alt="category" width="300" height="230"/></div>
-                <div className="category_name">Cabinets</div>
+            <Link to="/lamps"><div className="category_img"><img src="/imgs/lamp_cat.png" alt="category" width="300" height="230"/></div>
+                <div className="category_name">Lamps</div></Link>
             </div>
             
             <div className="category">
-                <div className="category_img"><img src="/imgs/kitchen_cat.png" alt="category" width="300" height="230"/></div>
-                <div className="category_name">Kitchens</div>
+            <Link to="/kitchens"><div className="category_img"><img src="/imgs/kitchen_cat.png" alt="category" width="300" height="230"/></div>
+                <div className="category_name">Kitchens</div></Link>
             </div>
             
             <div className="category">
-                
-                <div className="category_img"><img src="/imgs/kid_cat.png" alt="category" width="300" height="230"/></div>
-                <div className="category_name">Kids Furniture</div>
+            <Link to="/kidsfurniture"><div className="category_img"><img src="/imgs/kid_cat.png" alt="category" width="300" height="230"/></div>
+                <div className="category_name">Kids Furniture</div></Link>
             </div>
         </div>
     </div>

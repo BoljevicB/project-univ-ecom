@@ -8,12 +8,13 @@ import Contacts from "./components/head/hcomponents/contact/contacts";
 import Beds from "./components/categories/beds/beds";
 import Chairs from "./components/categories/chairs/chairs";
 import Desks from "./components/categories/desks/desks"
-import Dressers from "./components/categories/dressers/dressers";
-import Cabinets from "./components/categories/cabinets/cabinets";
+import Couches from "./components/categories/couches/couches";
+import Lamps from "./components/categories/lamps/lamps";
 import Kitchens from "./components/categories/kitchens/kitchens";
 import Tables from "./components/categories/tables/tables";
-
+import Kids from "./components/categories/kidsfurniute/kids";
 import { Route, Routes, Link } from "react-router-dom";
+
 
 function App() {
   return (
@@ -31,10 +32,11 @@ function App() {
               <Route path="/beds" element={<Beds />}/>
               <Route path="/chairs" element={<Chairs/>}/>
               <Route path="/desks" element={<Desks/>}/>
-              <Route path="/dressers" element={<Dressers/>}/>
-              <Route path="/cabinets" element={<Cabinets/>}/>
+              <Route path="/couches" element={<Couches />}/>
+              <Route path="/lamps" element={<Lamps />}/>
               <Route path="/kitchens" element={<Kitchens/>}/>
               <Route path="/tables" element={<Tables/>}/>
+              <Route path="/kidsfurniture" element={<Kids />}/>
             </Routes>
 
             <Footer/>
