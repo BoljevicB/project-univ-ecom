@@ -109,6 +109,7 @@
   .chair7,
   .chair8,
   .chair9 {
+    min-width: 300px;
     display: flex;
     align-items: center;
     justify-content: center;

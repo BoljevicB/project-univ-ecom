@@ -109,6 +109,7 @@ main {
   .table7,
   .table8,
   .table9 {
+    min-width: 300px;
     display: flex;
     align-items: center;
     justify-content: center;

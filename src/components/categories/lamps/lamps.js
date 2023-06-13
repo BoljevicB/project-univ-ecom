@@ -10,7 +10,7 @@ function Lamps() {
                 <p>There are many variations of passages of Lorem Ipsum available,<br/> beauty is here!</p>
                 <button id="b_now">Check New Arrivals</button>
             </div>
-            <div className="right_photo"><img src="/imgs/heroechair.jpg" alt="lamp" width="auto" height="500px"/></div>
+            <div className="right_photo"><img src="/imgs/herolamp.jpg" alt="lamp" width="auto" height="500px"/></div>
         </div>
         <div className="container_bot">
             <div className="prod_lamp">PRODUCTS</div>

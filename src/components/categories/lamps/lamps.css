@@ -110,6 +110,7 @@ main {
   .lamp7,
   .lamp8,
   .lamp9 {
+    min-width: 300px;
     display: flex;
     align-items: center;
     justify-content: center;

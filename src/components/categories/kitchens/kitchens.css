@@ -109,6 +109,7 @@ main {
   .kitchen7,
   .kitchen8,
   .kitchen9 {
+    min-width: 300px;
     display: flex;
     align-items: center;
     justify-content: center;

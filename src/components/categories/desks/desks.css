@@ -109,6 +109,7 @@ main {
   .desk7,
   .desk8,
   .desk9 {
+    min-width: 300px;
     display: flex;
     align-items: center;
     justify-content: center;

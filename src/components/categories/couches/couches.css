@@ -109,6 +109,7 @@ main {
   .couch7,
   .couch8,
   .couch9 {
+    min-width: 300px;
     display: flex;
     align-items: center;
     justify-content: center;

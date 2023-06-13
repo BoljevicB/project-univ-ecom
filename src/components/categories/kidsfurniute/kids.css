@@ -109,6 +109,7 @@
   .kid7,
   .kid8,
   .kid9 {
+    min-width: 300px;
     display: flex;
     align-items: center;
     justify-content: center;

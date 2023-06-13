@@ -109,6 +109,7 @@ main {
   .bed7,
   .bed8,
   .bed9 {
+    min-width: 300px;
     display: flex;
     align-items: center;
     justify-content: center;
