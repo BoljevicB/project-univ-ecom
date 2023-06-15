@@ -15,7 +15,7 @@ function Catalog () {
             <h1>Categories</h1>
             <ul>
             <li><Link to="/beds">Beds</Link></li>
-                    <li><Link to="/chairs">Chairs</Link></li>
+                    <li><Link to="/chairs">Check</Link></li>
                     <li><Link to="/desks">Desks</Link></li>
                     <li><Link to="/couches">Couches</Link></li>
                     <li><Link to="/tables">Tables</Link></li>
